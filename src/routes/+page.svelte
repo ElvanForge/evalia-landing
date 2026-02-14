@@ -90,7 +90,7 @@
 			<div class="relative">
 				<div class="absolute -inset-10 bg-teal-400/15 blur-3xl rounded-full"></div>
 				<div class="relative bg-white/40 backdrop-blur-2xl p-3 rounded-[2.5rem] shadow-2xl border border-white/60">
-					<img src="/images/hero-workspace.webp" alt= Vaelia Preview" class="rounded-[1.8rem] w-full h-auto object-cover border border-ink-100/20" />
+					<img src="/images/hero-workspace.webp" alt= "Vaelia Preview" class="rounded-[1.8rem] w-full h-auto object-cover border border-ink-100/20" />
 				</div>
 			</div>
 		</div>
@@ -200,7 +200,7 @@
 
 	<footer class="py-16 text-center opacity-40">
 		<p class="text-ink-950 font-black text-[10px] tracking-[0.2em] uppercase mb-2">&copy; 2026 ELVAN FORGE | HIGH PERFORMANCE ACADEMICS</p>
-		<p class="text-[9px] font-bold text-ink-950 uppercase tracking-tighter" Vaelia is a product of Elvan Forge. Purchases during Seeding Phase are early-access software pre-orders.</p>
+		<p class="text-[9px] font-bold text-ink-950 uppercase tracking-tighter"> Vaelia is a product of Elvan Forge. Purchases during Seeding Phase are early-access software pre-orders.</p>
 	</footer>
 </div>
 
