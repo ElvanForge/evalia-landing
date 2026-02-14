@@ -32,7 +32,7 @@
 	const faqs = [
 		{ 
 			q: "Is the Pioneer tier really a one-time payment?", 
-			a: "Yes. Seed Pioneers receive a permanent license. When Evalia moves to a $19/mo subscription at launch, your account remains active forever with no further billing."
+			a: "Yes. Seed Pioneers receive a permanent license. When Vaelia moves to a $19/mo subscription at launch, your account remains active forever with no further billing."
 		},
 		{ 
 			q: "What does Advisory Status mean?", 
@@ -58,7 +58,7 @@
 					<path d="M12 14V26" stroke="#faf6ea" stroke-width="4" stroke-linecap="butt"/>
 				</svg>
 			</div>
-			<span class="text-2xl font-black tracking-tighter text-ink-950 uppercase italic leading-none">Evalia</span>
+			<span class="text-2xl font-black tracking-tighter text-ink-950 uppercase italic leading-none" Vaelia</span>
 		</div>
 		<div class="hidden md:flex gap-10 items-center font-bold text-ink-700 text-xs tracking-widest uppercase">
 			<a href="#features" class="hover:text-teal-600 transition-colors">Features</a>
@@ -90,7 +90,7 @@
 			<div class="relative">
 				<div class="absolute -inset-10 bg-teal-400/15 blur-3xl rounded-full"></div>
 				<div class="relative bg-white/40 backdrop-blur-2xl p-3 rounded-[2.5rem] shadow-2xl border border-white/60">
-					<img src="/images/hero-workspace.webp" alt="Evalia Preview" class="rounded-[1.8rem] w-full h-auto object-cover border border-ink-100/20" />
+					<img src="/images/hero-workspace.webp" alt= Vaelia Preview" class="rounded-[1.8rem] w-full h-auto object-cover border border-ink-100/20" />
 				</div>
 			</div>
 		</div>
@@ -147,7 +147,7 @@
 							<li class="flex items-start gap-2"><span>•</span> 2 Months Pro Access Post-Launch</li>
 						</ul>
 					</div>
-					<a href={launchTiers.starter} class="mt-8 block text-center py-4 border-2 border-teal-800 text-teal-800 rounded-xl font-black hover:bg-teal-50 transition-all uppercase tracking-widest text-xs">Support Evalia</a>
+					<a href={launchTiers.starter} class="mt-8 block text-center py-4 border-2 border-teal-800 text-teal-800 rounded-xl font-black hover:bg-teal-50 transition-all uppercase tracking-widest text-xs">Support Vaelia</a>
 				</div>
 
 				<div class="bg-white p-10 rounded-[2.5rem] border-2 border-teal-600 shadow-xl flex flex-col justify-between relative transform lg:-translate-y-4">
@@ -200,7 +200,7 @@
 
 	<footer class="py-16 text-center opacity-40">
 		<p class="text-ink-950 font-black text-[10px] tracking-[0.2em] uppercase mb-2">&copy; 2026 ELVAN FORGE | HIGH PERFORMANCE ACADEMICS</p>
-		<p class="text-[9px] font-bold text-ink-950 uppercase tracking-tighter">Evalia is a product of Elvan Forge. Purchases during Seeding Phase are early-access software pre-orders.</p>
+		<p class="text-[9px] font-bold text-ink-950 uppercase tracking-tighter" Vaelia is a product of Elvan Forge. Purchases during Seeding Phase are early-access software pre-orders.</p>
 	</footer>
 </div>
 
