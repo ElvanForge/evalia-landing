@@ -58,7 +58,7 @@
 					<path d="M12 14V26" stroke="#faf6ea" stroke-width="4" stroke-linecap="butt"/>
 				</svg>
 			</div>
-			<span class="text-2xl font-black tracking-tighter text-ink-950 uppercase italic leading-none" Vaelia</span>
+			<span class="text-2xl font-black tracking-tighter text-ink-950 uppercase italic leading-none">Vaelia</span>
 		</div>
 		<div class="hidden md:flex gap-10 items-center font-bold text-ink-700 text-xs tracking-widest uppercase">
 			<a href="#features" class="hover:text-teal-600 transition-colors">Features</a>
