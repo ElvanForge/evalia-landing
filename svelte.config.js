@@ -5,17 +5,16 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
     preprocess: [vitePreprocess()],
     kit: {
-        // adapter-static is perfect for your Vaelia landing page
         adapter: adapter({
             pages: 'build',
             assets: 'build',
-            fallback: 'index.html', // Changed from 404.html to better support Vercel SPA routing
+            fallback: 'index.html', 
             precompress: false,
             strict: true
         }),
         paths: {
-            // REMOVED the '/evalia-landing' prefix. 
-            // This ensures your assets load correctly from the root of vaelia.app
+            // FORCE this to be empty. 
+            // Do not use the ternary operator (condition ? path : '') 
             base: '',
         }
     }
